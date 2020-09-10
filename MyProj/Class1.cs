@@ -30,8 +30,8 @@ namespace MyProj
             //Used / operator for dividing values
             div = (float)num1 / num2;
  
-            //Displaying Output
-            Console.WriteLine("\n\n=====================\n");
+            //Displaying O/P
+            Console.WriteLine("\n\n======================\n");
             Console.WriteLine("Addition\t\t{0}", add);
             Console.WriteLine("Subtraction\t\t{0}", sub);
             Console.WriteLine("Multiplication\t\t{0}", mul);
