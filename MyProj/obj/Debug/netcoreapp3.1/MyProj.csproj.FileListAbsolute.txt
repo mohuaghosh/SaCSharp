@@ -1,0 +1,13 @@
+C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\obj\Debug\netcoreapp3.1\MyProj.csprojAssemblyReference.cache
+C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\obj\Debug\netcoreapp3.1\MyProj.AssemblyInfoInputs.cache
+C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\obj\Debug\netcoreapp3.1\MyProj.AssemblyInfo.cs
+C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\obj\Debug\netcoreapp3.1\MyProj.csproj.CoreCompileInputs.cache
+C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\bin\Debug\netcoreapp3.1\MyProj.exe
+C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\bin\Debug\netcoreapp3.1\MyProj.deps.json
+C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\bin\Debug\netcoreapp3.1\MyProj.runtimeconfig.json
+C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\bin\Debug\netcoreapp3.1\MyProj.runtimeconfig.dev.json
+C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\bin\Debug\netcoreapp3.1\MyProj.dll
+C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\bin\Debug\netcoreapp3.1\MyProj.pdb
+C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\obj\Debug\netcoreapp3.1\MyProj.dll
+C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\obj\Debug\netcoreapp3.1\MyProj.pdb
+C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\obj\Debug\netcoreapp3.1\MyProj.genruntimeconfig.cache
