@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohua.ghosh\\OneDrive - Accenture\\MyProject\\MyProj\\MyProj.csproj": {}
+    "C:\\Repository\\MyProj\\MyProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohua.ghosh\\OneDrive - Accenture\\MyProject\\MyProj\\MyProj.csproj": {
+    "C:\\Repository\\MyProj\\MyProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohua.ghosh\\OneDrive - Accenture\\MyProject\\MyProj\\MyProj.csproj",
+        "projectUniqueName": "C:\\Repository\\MyProj\\MyProj.csproj",
         "projectName": "MyProj",
-        "projectPath": "C:\\Users\\mohua.ghosh\\OneDrive - Accenture\\MyProject\\MyProj\\MyProj.csproj",
+        "projectPath": "C:\\Repository\\MyProj\\MyProj.csproj",
         "packagesPath": "C:\\Users\\mohua.ghosh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohua.ghosh\\OneDrive - Accenture\\MyProject\\MyProj\\obj\\",
+        "outputPath": "C:\\Repository\\MyProj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohua.ghosh\\AppData\\Roaming\\NuGet\\NuGet.Config"
