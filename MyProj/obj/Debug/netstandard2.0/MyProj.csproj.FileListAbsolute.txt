@@ -1,9 +1,0 @@
-C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\bin\Debug\netstandard2.0\MyProj.deps.json
-C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\bin\Debug\netstandard2.0\MyProj.dll
-C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\bin\Debug\netstandard2.0\MyProj.pdb
-C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\obj\Debug\netstandard2.0\MyProj.csprojAssemblyReference.cache
-C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\obj\Debug\netstandard2.0\MyProj.AssemblyInfoInputs.cache
-C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\obj\Debug\netstandard2.0\MyProj.AssemblyInfo.cs
-C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\obj\Debug\netstandard2.0\MyProj.csproj.CoreCompileInputs.cache
-C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\obj\Debug\netstandard2.0\MyProj.dll
-C:\Users\mohua.ghosh\OneDrive - Accenture\MyProject\MyProj\obj\Debug\netstandard2.0\MyProj.pdb
